@@ -183,13 +183,13 @@ npm run dev
 
 - [x] 后端 `runserver` 正常启动，无数据库连接报错
 - [x] 前端 `npm run dev` 正常启动
-- [ ] 浏览器打开 http://localhost:3000 可访问登录页
-- [ ] 用户注册 / 登录成功
-- [ ] 创建项目与测试用例
-- [ ] Swagger 文档可正常浏览
-- [ ] API 测试模块页面可访问
-- [ ] UI 自动化模块页面可访问
-- [ ] （可选）AI 需求分析 / 用例生成
+- [x] 浏览器打开 http://localhost:3000 可访问登录页
+- [x] 用户注册 / 登录成功
+- [x] 创建项目与测试用例
+- [x] Swagger 文档可正常浏览
+- [x] API 测试模块页面可访问
+- [x] UI 自动化模块页面可访问
+- [x] （可选）AI 需求分析 / 用例生成
 
 ---
 
@@ -284,13 +284,27 @@ testhub_platform-main/
 
 ## 十、运行截图
 
-截图放在 [`screenshots/`](./screenshots/) 目录（部署成功后补充）。
+本地部署成功后，各核心模块运行效果如下：
 
-| 截图 | 说明 |
-|------|------|
-| `screenshots/login.png` | 登录页 |
-| `screenshots/dashboard.png` | 首页 / 项目列表 |
-| `screenshots/api-testing.png` | API 测试模块 |
+### 测试平台主页
+
+![测试平台主页](./screenshots/测试平台主页.png)
+
+### 配置页面
+
+![配置页面](./screenshots/配置页面.png)
+
+### UI 自动化
+
+![UI 自动化](./screenshots/ui自动化.png)
+
+### AI 用例生成
+
+![AI 用例生成](./screenshots/ai用例生成.png)
+
+### AI 智能测试
+
+![AI 智能测试](./screenshots/ai智能测试.png)
 
 ---
 
